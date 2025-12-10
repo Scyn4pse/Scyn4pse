@@ -1,10 +1,9 @@
 # **Chiara Marie C. Canque**
 ### *Junior Developer*
 
-📧 **Email:** [Send me an email](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/your-link-here)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
----
+🔗 **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/your-link-here)
 
 ## **Professional Experience**
 
@@ -19,20 +18,16 @@
 🔗 **Live Project** (link)  
 🔗 **Swagger UI** (link)
 
----
-
 ## **Tech Stack & Tools**
 - **Frontend:** React Native, TypeScript, Redux, Tailwind/NativeWind  
 - **Backend:** .NET Core, REST APIs  
 - **Database:** PostgreSQL  
 - **Tools:** Git, GitHub, Postman, Swagger UI, Axios  
 
----
 
 ## **About Me**
 A passionate junior developer focused on building scalable, efficient, and user-friendly applications. I love turning ideas into functional digital products and continuously learning new technologies.
 
----
 
 ## **Let's Connect!**
 Feel free to reach out for collaborations, opportunities, or just to say hi!
