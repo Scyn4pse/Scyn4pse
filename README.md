@@ -53,7 +53,7 @@
 ##  **Side Projects**
 
 ### **Hybrid P2B Lending Platform — Frontend Developer**  
-*October 2025 – November 2025* 
+*October 2025 – November 2025*
 [Live Project](https://kuwago.vercel.app) | [GitHub Repository](https://github.com/soliken1/Kuwago)
 - Built a **modular, reusable component architecture** using TypeScript, Next.js, and Tailwind, enabling faster development and easier long-term maintenance.  
 - Optimized API calls and data-fetching for critical user flows including **authentication, RBAC, credit scoring, document verification, identity validation, and loan request workflows**, improving responsiveness and reducing latency.  
