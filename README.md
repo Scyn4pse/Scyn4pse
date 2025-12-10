@@ -1,5 +1,5 @@
 # **Chiara Marie C. Canque**
-### *Junior Developer*
+### **Junior Developer**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canquechiara76@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiara-canque-b22144372/)
 
@@ -35,12 +35,14 @@
 - Developed an MVC application with an **AJAX-powered frontend** for pawnshop operations.  
 - Designed and implemented the **MSSQL database schema**.  
 - Deployed the application to **IIS** for stable and reliable hosting.
+[GitHub Repository](https://github.com/Scyn4pse/Pawn)
 
 ### **Municipal LGU-LCR Records Management System — Full-Stack Developer**  
 **Cubeworks Technology Consulting and Solutions, Inc.**  
 *June 2022 – May 2023*  
 - Developed an MVC module for certificate issuance with backend logic and **MSSQL database design**, processing an average of **3,695 certificates monthly**.  
 - Deployed via IIS and collaborated with municipal stakeholders, ensuring on-time delivery of production-ready features.
+[GitHub Repository](https://github.com/Scyn4pse/Forms)
 
 ### **Boveda Document Management System — Encoder**  
 **Cubeworks Technology Consulting and Solutions, Inc.**  
@@ -55,37 +57,37 @@
 - Built a **modular, reusable component architecture** using TypeScript, Next.js, and Tailwind, enabling faster development and easier long-term maintenance.  
 - Optimized API calls and data-fetching for critical user flows including **authentication, RBAC, credit scoring, document verification, identity validation, and loan request workflows**, improving responsiveness and reducing latency.  
 - Implemented efficient **pagination and client-side caching** across modules and the admin analytics dashboard, supporting interactive charts and seamless data handling for large datasets.
+[Live Project](https://kuwago.vercel.app) | [GitHub Repository](https://github.com/soliken1/Kuwago)
 
 ## **School Projects**
 
 ### **AI-Powered Water Delivery System (Capstone)**  
 **Role:** Project Manager, Backend Developer  
 **Tech Stack:** Kotlin, Firebase, MVVM Architecture, Gemini AI, Google Maps API, React (Vite), Cloudflare  
+[GitHub Repository](https://github.com/Scyn4pse/Implementation_Aquaroute_Capstone_Admin)
 
 ### **E-Commerce Mobile Application**  
 **Role:** Project Manager, Backend Developer  
 **Tech Stack:** Kotlin, PHP, MVVM Architecture, Laravel  
-
+[GitHub Repository](https://github.com/Scyn4pse/ELPHP_Pawsitive-Vibes-Pet-Supplies_-SAT-130-630)
 
 ### **Online Donation Mobile Application**  
 **Role:** Project Manager, Frontend Developer  
 **Tech Stack:** XML, Firebase, Kotlin  
 
-
 ### **E-Commerce Website**  
 **Role:** Full-Stack Developer  
 **Tech Stack:** React (Vite), Node.js, Nginx, Google Cloud, Stripe API, MongoDB  
-
+[GitHub Repository](https://github.com/Scyn4pse/it-sysarch32-store-canque)
 
 ### **Enrollment System Website**  
 **Role:** Backend Developer  
 **Tech Stack:** ASP.NET MVC, MSSQL  
-
+[GitHub Repository](https://github.com/Scyn4pse/WebApplication1)
 
 ### **Enrollment System GUI**  
 **Role:** Frontend Developer  
 **Tech Stack:** C# GUI  
-
 
 ### **Automatic Plant Water Sprinkler Actuated by Soil Moisture Detector**  
 **Role:** Programmer  
@@ -101,49 +103,47 @@
 
 ## **Skills & Interests**
 
-### **Programming**
+**Programming**
 C, C# (.NET Core Web API, GUI), Java, JavaScript, PHP, Kotlin, Assembly
 
-### **Web & Mobile Development**
+**Web & Mobile Development**
 HTML/CSS, Tailwind, jQuery, React, Vite, React Native, ASP.NET, MVC, MVVM, Laravel, Swagger API, Figma, Ant Design
 
-### **Backend & Tools**
+**Backend & Tools**
 LINQ, Refit, Axios, Redux, Node.js, Firebase, MySQL, MongoDB, PostgreSQL
 
-### **DevOps & Deployment**
+**DevOps & Deployment**
 IIS, Cloudflare, Nginx, Google Cloud
 
-### **Integrations**
+**Integrations**
 Google Maps API, Google AI Studio (AI/ML integrations), MQTT
 
-### **Version Control**
+**Version Control**
 GitHub
 
-### **Soft Skills**
+**Soft Skills**
 Problem-Solving, Communication, Teamwork, Leadership, Time Management
 
 ## **Education**
 
-### **Bachelor of Science in Information Technology**  
+**Bachelor of Science in Information Technology**  
 **University of Cebu – Banilad Campus**  
 *June 2025*
 
-### **University of San Carlos – Talamban Campus**  
+**University of San Carlos – Talamban Campus**  
 Dean’s Lister — *Rank 6*  
 Shifted Program from BSCS
 *2022*
 
-### **Informatics College Cebu Inc.**  
+**Informatics College Cebu Inc.**  
 With High Honors — *Rank 1*  
 *2021*
 
-
-### **Science and Technology High School**  
+**Science and Technology High School**  
 With Honors  
 *2019*
 
-
-### **Compostela Central School**  
+**Compostela Central School**  
 Rank 8 — SciTech Class  
 *2015*
 
