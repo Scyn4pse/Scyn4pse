@@ -35,6 +35,7 @@
 - Developed an MVC application with an **AJAX-powered frontend** for pawnshop operations.  
 - Designed and implemented the **MSSQL database schema**.  
 - Deployed the application to **IIS** for stable and reliable hosting.
+  
 [GitHub Repository](https://github.com/Scyn4pse/Pawn)
 
 ### **Municipal LGU-LCR Records Management System — Software Developer**  
@@ -42,6 +43,7 @@
 *June 2022 – May 2023*  
 - Developed an MVC module for certificate issuance with backend logic and **MSSQL database design**, processing an average of **3,695 certificates monthly**.  
 - Deployed via IIS and collaborated with municipal stakeholders, ensuring on-time delivery of production-ready features.
+
 [GitHub Repository](https://github.com/Scyn4pse/Forms)
 
 ### **Boveda Document Management System — Encoder**  
@@ -57,6 +59,7 @@
 - Built a **modular, reusable component architecture** using TypeScript, Next.js, and Tailwind, enabling faster development and easier long-term maintenance.  
 - Optimized API calls and data-fetching for critical user flows including **authentication, RBAC, credit scoring, document verification, identity validation, and loan request workflows**, improving responsiveness and reducing latency.  
 - Implemented efficient **pagination and client-side caching** across modules and the admin analytics dashboard, supporting interactive charts and seamless data handling for large datasets.
+
 [Live Project](https://kuwago.vercel.app) | [GitHub Repository](https://github.com/soliken1/Kuwago)
 
 ### **Personal Finance Management Application — Mobile Developer**  
@@ -64,6 +67,7 @@
 - Built a React Native mobile app with offline-first capabilities and real-time online syncing for debt management, payment tracking, and expense monitoring.
 - Developed AI-driven financial assessments and interactive analytics dashboards, providing actionable insights for budgeting and debt reduction.
 - Optimized data handling, caching, and API calls, ensuring fast performance, smooth user experience, and reliable financial data updates.
+
 [GitHub Repository](https://github.com/Scyn4pse/SplitMoney)
 
 ### **POS Inventory and Manufacturing System — Software Developer**  
@@ -71,6 +75,7 @@
 - Developed a full-featured POS and inventory management system using React Vite and Firebase, streamlining sales, stock tracking, and product management for efficient retail operations.
 - Implemented advanced manufacturing costing modules, including dynamic cost tracking, per-unit production costs, and production-based payroll calculations.
 - Built financial reporting dashboards with AI-driven assessments providing actionable insights on profitability, production efficiency, and inventory valuation for data-driven decision making.
+
 [GitHub Repository](https://github.com/Scyn4pse/KAYU)
 
 ## **School Projects**
