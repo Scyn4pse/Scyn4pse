@@ -1,9 +1,7 @@
 # **Chiara Marie C. Canque**
 ### *Junior Developer*
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-🔗 **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/your-link-here)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
 
 ## **Professional Experience**
 
@@ -15,19 +13,117 @@
 - Integrated Axios with a **.NET Core + PostgreSQL backend**, designing a **modular and scalable architecture** that reduced API response errors by **30%**.
 - Implemented comprehensive **error handling and validation** across API requests and UI components, preventing critical runtime failures and significantly improving application stability.
 
-🔗 **Live Project** (link)  
-🔗 **Swagger UI** (link)
+## **Internship Experience**
 
-## **Tech Stack & Tools**
-- **Frontend:** React Native, TypeScript, Redux, Tailwind/NativeWind  
-- **Backend:** .NET Core, REST APIs  
-- **Database:** PostgreSQL  
-- **Tools:** Git, GitHub, Postman, Swagger UI, Axios  
+### **IoT Building Management System — Full-Stack Developer**  
+**Cubeworks Technology Consulting and Solutions, Inc.**  
+*February 2025 – April 2025*  
+- Built an IoT platform leveraging **MQTT** for real-time HVAC device communication, enabling remote control of **96 devices** and reducing manual intervention.  
+- Developed automation logic for custom triggers and system-driven actions.  
+- Designed and deployed an interactive **cloud-hosted monitoring interface**.
+
+### **Census Management System — Full-Stack Developer**  
+**Cubeworks Technology Consulting and Solutions, Inc.**  
+*February 2024 – April 2024*  
+- Built an **MVC web application** using **C#/.NET Core** with **PostgreSQL**, enabling management of structured census data for **210 households**.  
+- Designed responsive UI components using MVC, HTML, and JavaScript, streamlining data entry workflows.  
+- Collaborated with stakeholders to refine requirements and align system features with operational goals, ensuring **100% compliance** with census data standards.
+
+### **Pawnshop System — Frontend Developer**  
+**Cubeworks Technology Consulting and Solutions, Inc.**  
+*October 2023 – February 2024*  
+- Developed an MVC application with an **AJAX-powered frontend** for pawnshop operations.  
+- Designed and implemented the **MSSQL database schema**.  
+- Deployed the application to **IIS** for stable and reliable hosting.
+
+### **Municipal LGU-LCR Records Management System — Full-Stack Developer**  
+**Cubeworks Technology Consulting and Solutions, Inc.**  
+*June 2022 – May 2023*  
+- Developed an MVC module for certificate issuance with backend logic and **MSSQL database design**, processing an average of **3,695 certificates monthly**.  
+- Deployed via IIS and collaborated with municipal stakeholders, ensuring on-time delivery of production-ready features.
+
+### **Boveda Document Management System — Encoder**  
+**Cubeworks Technology Consulting and Solutions, Inc.**  
+*November 2021 – January 2022*  
+- Renamed and categorized system documents following strict naming conventions.  
+- Performed quality control and generated monthly documentation reports.
+
+##  **Side Projects**
+
+### **Hybrid P2B Lending Platform — Frontend Developer**  
+*October 2025 – November 2025*  
+- Built a **modular, reusable component architecture** using TypeScript, Next.js, and Tailwind, enabling faster development and easier long-term maintenance.  
+- Optimized API calls and data-fetching for critical user flows including **authentication, RBAC, credit scoring, document verification, identity validation, and loan request workflows**, improving responsiveness and reducing latency.  
+- Implemented efficient **pagination and client-side caching** across modules and the admin analytics dashboard, supporting interactive charts and seamless data handling for large datasets.
+
+##  **School Projects**
+
+### **AI-Powered Water Delivery System (Capstone) — Software Developer**  
+**University of Cebu – Banilad**  
+*January 2025 – May 2025*  
+- Developed and maintained dynamic web applications using **React + Vite**, with responsive and reusable UI components that improved load times and user engagement.  
+- Integrated **Google Maps API, Gemini AI, and Cloudflare**, enabling intelligent features, optimized routing, and secure content delivery.  
+- Leveraged **Firebase** and **MVVM architecture** to implement scalable state management and **real-time data synchronization** across applications.
+
+### **E-Commerce Website — Software Developer**  
+**University of Cebu – Banilad**  
+*March 2024*  
+- Developed and optimized a **React (Vite)** e-commerce platform with reusable components, improving overall site performance and user experience.  
+- Integrated **Stripe API** for secure and seamless payments, and leveraged **Google Cloud** for scalable hosting and fast content delivery.  
+- Built a **Node.js backend with MongoDB and Nginx**, optimizing data handling, API performance, and server reliability for high-traffic scenarios.
+
+## **Leadership Experience & Activities**
+
+### **Philippine Society of Information Technology Students — Production Team**  
+**UC – Banilad**  
+*September 2023 – June 2025*  
+- Assisted in preparing multimedia assets, presentations, and event materials to support organization-wide programs, seminars, and competitions.  
+- Coordinated with cross-functional committees to ensure timely production, smooth program flow, and high-quality audiovisual execution during events.
+
+## **Skills & Interests**
+
+### **Programming**
+C, C# (.NET Core Web API, GUI), Java, JavaScript, PHP, Kotlin, Assembly
+
+### **Web & Mobile Development**
+HTML/CSS, Tailwind, jQuery, React, Vite, React Native, ASP.NET, MVC, MVVM, Laravel, Swagger API, Figma, Ant Design
+
+### **Backend & Tools**
+LINQ, Refit, Axios, Redux, Node.js, Firebase, MySQL, MongoDB, PostgreSQL
+
+### **DevOps & Deployment**
+IIS, Cloudflare, Nginx, Google Cloud
+
+### **Integrations**
+Google Maps API, Google AI Studio (AI/ML integrations), MQTT
+
+### **Version Control**
+GitHub
+
+### **Soft Skills**
+Problem-Solving, Communication, Teamwork, Leadership, Time Management
+
+## **Education**
+
+### **Bachelor of Science in Information Technology**  
+**University of Cebu – Banilad Campus**  
+*June 2025*
+
+### **University of San Carlos – Talamban Campus**  
+Dean’s Lister — *Rank 6*  
+Shifted Program from BSCS
+*2022*
+
+### **Informatics College Cebu Inc.**  
+With High Honors — *Rank 1*  
+*2021*
 
 
-## **About Me**
-A passionate junior developer focused on building scalable, efficient, and user-friendly applications. I love turning ideas into functional digital products and continuously learning new technologies.
+### **Science and Technology High School**  
+With Honors  
+*2019*
 
 
-## **Let's Connect!**
-Feel free to reach out for collaborations, opportunities, or just to say hi!
+### **Compostela Central School**  
+Rank 8 — SciTech Class  
+*2015*
