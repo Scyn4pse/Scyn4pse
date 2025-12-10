@@ -56,21 +56,40 @@
 - Optimized API calls and data-fetching for critical user flows including **authentication, RBAC, credit scoring, document verification, identity validation, and loan request workflows**, improving responsiveness and reducing latency.  
 - Implemented efficient **pagination and client-side caching** across modules and the admin analytics dashboard, supporting interactive charts and seamless data handling for large datasets.
 
-##  **School Projects**
+## **School Projects**
 
-### **AI-Powered Water Delivery System (Capstone) — Software Developer**  
-**University of Cebu – Banilad**  
-*January 2025 – May 2025*  
-- Developed and maintained dynamic web applications using **React + Vite**, with responsive and reusable UI components that improved load times and user engagement.  
-- Integrated **Google Maps API, Gemini AI, and Cloudflare**, enabling intelligent features, optimized routing, and secure content delivery.  
-- Leveraged **Firebase** and **MVVM architecture** to implement scalable state management and **real-time data synchronization** across applications.
+### **AI-Powered Water Delivery System (Capstone)**  
+**Role:** Project Manager, Backend Developer  
+**Tech Stack:** Kotlin, Firebase, MVVM Architecture, Gemini AI, Google Maps API, React (Vite), Cloudflare  
 
-### **E-Commerce Website — Software Developer**  
-**University of Cebu – Banilad**  
-*March 2024*  
-- Developed and optimized a **React (Vite)** e-commerce platform with reusable components, improving overall site performance and user experience.  
-- Integrated **Stripe API** for secure and seamless payments, and leveraged **Google Cloud** for scalable hosting and fast content delivery.  
-- Built a **Node.js backend with MongoDB and Nginx**, optimizing data handling, API performance, and server reliability for high-traffic scenarios.
+### **E-Commerce Mobile Application**  
+**Role:** Project Manager, Backend Developer  
+**Tech Stack:** Kotlin, PHP, MVVM Architecture, Laravel  
+
+
+### **Online Donation Mobile Application**  
+**Role:** Project Manager, Frontend Developer  
+**Tech Stack:** XML, Firebase, Kotlin  
+
+
+### **E-Commerce Website**  
+**Role:** Full-Stack Developer  
+**Tech Stack:** React (Vite), Node.js, Nginx, Google Cloud, Stripe API, MongoDB  
+
+
+### **Enrollment System Website**  
+**Role:** Backend Developer  
+**Tech Stack:** ASP.NET MVC, MSSQL  
+
+
+### **Enrollment System GUI**  
+**Role:** Frontend Developer  
+**Tech Stack:** C# GUI  
+
+
+### **Automatic Plant Water Sprinkler Actuated by Soil Moisture Detector**  
+**Role:** Programmer  
+**Tech Stack:** Arduino
 
 ## **Leadership Experience & Activities**
 
@@ -127,3 +146,12 @@ With Honors
 ### **Compostela Central School**  
 Rank 8 — SciTech Class  
 *2015*
+
+## **Additional Information**
+
+**Achievements:**  
+- Java Quiz Bowl — 2nd Place (2023)  
+- CAL ICT Champions Quiz Bowl — Participant (2018)  
+- Webpage Design — 2nd Place (2017)  
+- Science Investigatory Project — 2nd Place, Division Level (2017)  
+- PC Assembly/Disassembly, Configuration, Troubleshoot & Networking — 2nd Place (2016)
